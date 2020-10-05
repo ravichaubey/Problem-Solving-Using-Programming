@@ -9,3 +9,4 @@ Solving problems is the core of computer science. Programmers must first underst
 3. [Sum of N Natural Numbers](https://github.com/ravichaubey/Problem-Solving-Basics/tree/master/Sum%20of%20N%20Natural%20Numers)
 4. [Area of Triangle](https://github.com/ravichaubey/Problem-Solving-Basics/tree/master/Area%20of%20Triangle)
 5. [Root of Quadratic Equation](https://github.com/ravichaubey/Problem-Solving-Basics/tree/master/Root%20of%20Quadratic%20Equation)
+6. [Maximum of Two Numbers](https://github.com/ravichaubey/Problem-Solving-Basics/tree/master/Maximum%20of%20Two%20Numbers)
