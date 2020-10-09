@@ -27,3 +27,4 @@ Solving problems is the core of computer science. Programmers must first underst
 21. [Armstrong Number](https://github.com/ravichaubey/Problem-Solving-Basics/tree/master/Armstrong%20Number)
 22. [Palindrome Number](https://github.com/ravichaubey/Problem-Solving-Basics/tree/master/Palindrome%20Number)
 23. [Greatest Common Divisor](https://github.com/ravichaubey/Problem-Solving-Basics/tree/master/Greatest%20Common%20Divisor)
+24. [Packaging Cupcakes](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Packaging%20Cupcakes)
