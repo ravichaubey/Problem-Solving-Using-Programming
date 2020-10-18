@@ -41,4 +41,3 @@ Solving problems is the core of computer science. Programmers must first underst
 35. [Pattern Square](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Pattern%20Square)
 36. [Matrix Addition](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Matrix%20Addition)
 37. [Matrix Multiplication](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Matrix%20Multiplication)
-38. [New Folder](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/New%20Problem)
