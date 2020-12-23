@@ -1,18 +1,12 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  6 18:36:02 2020
+# Euclidean GCD(a,b) == GCD(a`,b)
 
-@author: ravi
-"""
-
-m,n = map(int,input("Please Enter two numbers ==> ").split())
-
-while True:
-    if m == n:
-        print(m)
-        break
-    elif m>n:
-        m = m-n
+def gcd(a,b):
+    if b == 0:
+        return a
     else:
-        n = n-m
+        aDash = a%b
+        return gcd(b,aDash)
+
+if __name__ == "__main__":
+    a, b = map(int, input().split())
+    print(gcd(a, b))
