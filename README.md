@@ -59,3 +59,4 @@ Solving problems is the core of computer science. Programmers must first underst
 53. [Collecting Signature](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Collecting%20Signature)
 54. [Maximum Number of Prizes](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Maximum%20Number%20of%20Prizes)
 55. [Breaking the Records](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Breaking%20the%20Records)
+56. [Subarray Division](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Subarray%20Division)
