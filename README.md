@@ -60,3 +60,5 @@ Solving problems is the core of computer science. Programmers must first underst
 54. [Maximum Number of Prizes](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Maximum%20Number%20of%20Prizes)
 55. [Breaking the Records](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Breaking%20the%20Records)
 56. [Subarray Division](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Subarray%20Division)
+57. [Polynomial Multiplication](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Polynomial%20Multiplication)
+58. [Selection Sort](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Selection%20Sort)
