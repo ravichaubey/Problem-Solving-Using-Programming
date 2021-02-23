@@ -63,3 +63,6 @@ Solving problems is the core of computer science. Programmers must first underst
 57. [Polynomial Multiplication](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Polynomial%20Multiplication)
 58. [Selection Sort](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Selection%20Sort)
 59. [Is Common Between Arrays](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Is%20Common%20Between%20Arrays)
+60. [Sum of Digit of Numbers](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Sum%20of%20Digits%20of%20Number)
+61. [Exponent of Number](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Exponent%20of%20Number)
+62. [Decimal to Binary](https://github.com/ravichaubey/Problem-Solving-Using-Programming/tree/master/Decimal%20to%20Binary)
